@@ -67,5 +67,7 @@ Project Link: https://github.com/Marwan-khadem9/stroke-prediction-app
 ## Acknowledgements
 
 Flutter
+
 TensorFlow Lite
+
 [Dataset Source](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
